@@ -176,3 +176,4 @@ websockets==11.0.3
 Werkzeug==3.0.4
 wrapt==1.16.0
 yarl==1.9.4
+sentence_transformers
