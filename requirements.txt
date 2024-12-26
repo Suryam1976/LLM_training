@@ -162,7 +162,8 @@ threadpoolctl==3.5.0
 tokenizers==0.19.1
 toml==0.10.2
 toolz==0.12.1
-torch==2.4.0
+torch==2.5.1
+torch_vision==0.20.1
 tqdm==4.66.4
 transformers==4.43.2
 typer==0.12.3
@@ -177,3 +178,4 @@ Werkzeug==3.0.4
 wrapt==1.16.0
 yarl==1.9.4
 sentence_transformers
+nltk
